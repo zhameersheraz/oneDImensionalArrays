@@ -87,4 +87,4 @@ Released under the [MIT License](LICENSE).
 
 ## Author
 
-**zhameersheraz** — Discrete Structures 2 coursework
+**zhameersheraz**
